@@ -1,0 +1,10 @@
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\NormalMappingModelProcessor\bin\x86\Debug\NormalMappingModelProcessor.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\NormalMappingModelProcessor\bin\x86\Debug\NormalMappingModelProcessor.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.csprojResolveAssemblyReference.cache
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\bin\x86\Debug\NormalMappingModelProcessor.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\bin\x86\Debug\NormalMappingModelProcessor.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\obj\x86\Debug\NormalMappingModelProcessor.csprojResolveAssemblyReference.cache

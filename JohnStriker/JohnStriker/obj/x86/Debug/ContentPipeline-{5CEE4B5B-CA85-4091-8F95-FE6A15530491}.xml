@@ -1,0 +1,1180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Fonts\ArialL.spritefont</Source>
+      <Name>Fonts\ArialL</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Fonts\ArialL.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ArialM.spritefont</Source>
+      <Name>Fonts\ArialM</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Fonts\ArialM.xnb</Output>
+      <Time>2015-04-19T00:57:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Fonts\ArialS.spritefont</Source>
+      <Name>Fonts\ArialS</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Fonts\ArialS.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\cursor_anim.tga</Source>
+      <Name>Screens\cursor_anim</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\cursor_anim.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\cursor_arrow.tga</Source>
+      <Name>Screens\cursor_arrow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\cursor_arrow.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\cursor_bullet.tga</Source>
+      <Name>Screens\cursor_bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\cursor_bullet.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\intro_bg.tga</Source>
+      <Name>Screens\intro_bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\intro_bg.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\intro_lens.tga</Source>
+      <Name>Screens\intro_lens</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\intro_lens.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\intro_logo.tga</Source>
+      <Name>Screens\intro_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\intro_logo.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\10647i7F5ACD7A7FD42157.tga</Source>
+      <Name>Screens\10647i7F5ACD7A7FD42157</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\10647i7F5ACD7A7FD42157.xnb</Output>
+      <Time>2015-03-21T18:59:29-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\RuvZsoi.tga</Source>
+      <Name>Screens\RuvZsoi</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\RuvZsoi.xnb</Output>
+      <Time>2015-03-21T18:59:44-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\Space.tga</Source>
+      <Name>Screens\Space</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\Space.xnb</Output>
+      <Time>2015-03-21T19:06:03-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\space_bg_frederator8569.tga</Source>
+      <Name>Screens\space_bg_frederator8569</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\space_bg_frederator8569.xnb</Output>
+      <Time>2015-03-21T19:05:52-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_hp.tga</Source>
+      <Name>Screens\menu_hp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_hp.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_hp_hover.tga</Source>
+      <Name>Screens\menu_hp_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_hp_hover.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_qg.tga</Source>
+      <Name>Screens\menu_qg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_qg.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_qg_hover.tga</Source>
+      <Name>Screens\menu_qg_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_qg_hover.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_sp.tga</Source>
+      <Name>Screens\menu_sp</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_sp.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_sp_hover.tga</Source>
+      <Name>Screens\menu_sp_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_sp_hover.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_play.png</Source>
+      <Name>Screens\menu_play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_play.xnb</Output>
+      <Time>2015-03-26T20:50:43-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_help.png</Source>
+      <Name>Screens\menu_help</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_help.xnb</Output>
+      <Time>2015-03-26T20:46:51-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_help_hover.png</Source>
+      <Name>Screens\menu_help_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_help_hover.xnb</Output>
+      <Time>2015-03-26T21:04:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_play_hover.png</Source>
+      <Name>Screens\menu_play_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_play_hover.xnb</Output>
+      <Time>2015-03-26T21:02:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_quit.png</Source>
+      <Name>Screens\menu_quit</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_quit.xnb</Output>
+      <Time>2015-03-26T20:53:13-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\menu_quit_hover.png</Source>
+      <Name>Screens\menu_quit_hover</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\menu_quit_hover.xnb</Output>
+      <Time>2015-03-26T21:04:48-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\game_logo.png</Source>
+      <Name>Screens\game_logo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\game_logo.xnb</Output>
+      <Time>2015-03-26T22:16:12-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\game_content.png</Source>
+      <Name>Screens\game_content</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\game_content.xnb</Output>
+      <Time>2015-03-28T00:39:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\game_content_1.png</Source>
+      <Name>Screens\game_content_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\game_content_1.xnb</Output>
+      <Time>2015-03-28T01:00:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\hud_sp_crosshair.tga</Source>
+      <Name>Screens\hud_sp_crosshair</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\hud_sp_crosshair.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\BlasterGrid_16.tga</Source>
+      <Name>Explosion\BlasterGrid_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\BlasterGrid_16.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\MissileGrid_16.tga</Source>
+      <Name>Explosion\MissileGrid_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\MissileGrid_16.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\ShieldGrid_32.tga</Source>
+      <Name>Explosion\ShieldGrid_32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\ShieldGrid_32.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\ShipGrid_32.tga</Source>
+      <Name>Explosion\ShipGrid_32</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\ShipGrid_32.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\SpawnGrid_16.tga</Source>
+      <Name>Explosion\SpawnGrid_16</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\SpawnGrid_16.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle\Point1.tga</Source>
+      <Name>Particle\Point1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particle\Point1.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle\Point2.tga</Source>
+      <Name>Particle\Point2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particle\Point2.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle\Spark1.tga</Source>
+      <Name>Particle\Spark1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particle\Spark1.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Particle\Spark2.tga</Source>
+      <Name>Particle\Spark2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Particle\Spark2.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\texturez_4301.jpg</Source>
+      <Name>Models\texturez_4301</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\texturez_4301.xnb</Output>
+      <Time>2015-05-11T19:30:40-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DDS\OutputCube.dds</Source>
+      <Name>DDS\OutputCube</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DDS\OutputCube.xnb</Output>
+      <Time>2015-06-24T19:36:55.0469607-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\snow_grass.bmp</Source>
+      <Name>Texture\snow_grass</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\snow_grass.xnb</Output>
+      <Time>2015-06-02T23:15:50-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\noise_texture.bmp</Source>
+      <Name>Texture\noise_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\noise_texture.xnb</Output>
+      <Time>2010-11-24T14:54:54-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\snow.bmp</Source>
+      <Name>Texture\snow</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\snow.xnb</Output>
+      <Time>2010-11-24T14:49:58-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\snow_rock.bmp</Source>
+      <Name>Texture\snow_rock</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\snow_rock.xnb</Output>
+      <Time>2015-06-02T23:27:59-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\snow_sand.bmp</Source>
+      <Name>Texture\snow_sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\snow_sand.xnb</Output>
+      <Time>2015-06-02T23:23:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\terrain_Weightmap.bmp</Source>
+      <Name>Texture\terrain_Weightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\terrain_Weightmap.xnb</Output>
+      <Time>2015-06-06T10:55:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\terrain_Weightmap_1.bmp</Source>
+      <Name>Texture\terrain_Weightmap_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\terrain_Weightmap_1.xnb</Output>
+      <Time>2015-06-06T19:15:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\terrain_Weightmap_2.bmp</Source>
+      <Name>Texture\terrain_Weightmap_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\terrain_Weightmap_2.xnb</Output>
+      <Time>2015-06-06T19:30:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\terrain_Weightmap_3.bmp</Source>
+      <Name>Texture\terrain_Weightmap_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\terrain_Weightmap_3.xnb</Output>
+      <Time>2015-06-06T19:43:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\weightMap.bmp</Source>
+      <Name>Texture\weightMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\weightMap.xnb</Output>
+      <Time>2010-11-24T14:46:10-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain_Weightmap.bmp</Source>
+      <Name>Models\terrain_Weightmap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\terrain_Weightmap.xnb</Output>
+      <Time>2015-06-06T10:55:55-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain_Weightmap_1.bmp</Source>
+      <Name>Models\terrain_Weightmap_1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\terrain_Weightmap_1.xnb</Output>
+      <Time>2015-06-06T19:15:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain_Weightmap_2.bmp</Source>
+      <Name>Models\terrain_Weightmap_2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\terrain_Weightmap_2.xnb</Output>
+      <Time>2015-06-06T19:30:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\terrain_Weightmap_3.bmp</Source>
+      <Name>Models\terrain_Weightmap_3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\terrain_Weightmap_3.xnb</Output>
+      <Time>2015-06-06T19:43:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DDS\SkyCubeMap.dds</Source>
+      <Name>DDS\SkyCubeMap</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DDS\SkyCubeMap.xnb</Output>
+      <Time>2014-03-26T19:58:22-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\snow_sand.bmp</Source>
+      <Name>Models\snow_sand</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\snow_sand.xnb</Output>
+      <Time>2015-06-02T23:23:23-07:00</Time>
+    </Item>
+    <Item>
+      <Source>DDS\ThickCloudsWater.dds</Source>
+      <Name>DDS\ThickCloudsWater</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\DDS\ThickCloudsWater.xnb</Output>
+      <Time>2015-06-24T19:48:19.6838546-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\Particle.png</Source>
+      <Name>Texture\Particle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\Particle.xnb</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture\ParticleColors.png</Source>
+      <Name>Texture\ParticleColors</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Texture\ParticleColors.xnb</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\explosion.png</Source>
+      <Name>Explosion\explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\explosion.xnb</Output>
+      <Time>2010-09-15T11:23:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Explosion\smoke.png</Source>
+      <Name>Explosion\smoke</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Explosion\smoke.xnb</Output>
+      <Time>2010-09-15T11:23:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Screens\hud_sp_missile.tga</Source>
+      <Name>Screens\hud_sp_missile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Screens\hud_sp_missile.xnb</Output>
+      <Time>2015-08-04T21:28:12.6472649-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\AnimationSprite.fx</Source>
+      <Name>Shaders\AnimationSprite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\AnimationSprite.xnb</Output>
+      <Time>2015-03-21T18:32:35-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Blur.fx</Source>
+      <Name>Shaders\Blur</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\Blur.xnb</Output>
+      <Time>2015-03-21T10:44:39-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\Particle.fx</Source>
+      <Name>Shaders\Particle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\Particle.xnb</Output>
+      <Time>2015-03-21T18:33:24-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\NormalMapping.fx</Source>
+      <Name>Shaders\NormalMapping</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\NormalMapping.xnb</Output>
+      <Time>2015-03-21T10:48:46-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\skysphere_effect.fx</Source>
+      <Name>Shaders\skysphere_effect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\skysphere_effect.xnb</Output>
+      <Time>2010-11-24T14:50:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\TerrainEffect.fx</Source>
+      <Name>Shaders\TerrainEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\TerrainEffect.xnb</Output>
+      <Time>2015-06-12T19:45:16-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\ExplosionParticle.fx</Source>
+      <Name>Shaders\ExplosionParticle</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\ExplosionParticle.xnb</Output>
+      <Time>2015-06-30T22:33:31.5130694-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\ParticleEffect.fx</Source>
+      <Name>Shaders\ParticleEffect</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\ParticleEffect.xnb</Output>
+      <Time>2010-09-15T11:23:08-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Shaders\AnimSprite.fx</Source>
+      <Name>Shaders\AnimSprite</Name>
+      <Importer>EffectImporter</Importer>
+      <Processor>EffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\AnimSprite.xnb</Output>
+      <Time>2010-12-08T13:57:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ground.x</Source>
+      <Name>Models\Ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\Ground.xnb</Output>
+      <Time>2015-04-11T18:44:17-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\Ground_0.xml</Key>
+        <Value>2015-08-18T00:21:11.1544459-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\Checker_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\grass_ground.x</Source>
+      <Name>Models\grass_ground</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\grass_ground.xnb</Output>
+      <Time>2010-11-24T13:58:42-08:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\grass_ground_0.xml</Key>
+        <Value>2015-08-18T00:21:11.2384507-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\grass_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Name>Models\ammo</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\ammo.xnb</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\ammo_0.xml</Key>
+        <Value>2015-08-18T00:21:11.6704754-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Ammo\blaster.x</Source>
+      <Name>Ammo\blaster</Name>
+      <Importer>XImporter</Importer>
+      <Processor>NormalMappingModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\blaster.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Ammo\blaster_0.xml</Key>
+        <Value>2015-08-18T00:21:11.715478-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\blaster_c_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_normal_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_specular_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_glow_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\NormalMapping.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Name>Models\spaceship</Name>
+      <Importer>XImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\spaceship.xnb</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\spaceship_0.xml</Key>
+        <Value>2015-08-18T00:21:11.8634865-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\CrossHair.FBX</Source>
+      <Name>Models\CrossHair</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\CrossHair.xnb</Output>
+      <Time>2015-04-21T19:10:25-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\CrossHair_0.xml</Key>
+        <Value>2015-08-18T00:21:12.0374964-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Ammo\missile.fbx</Source>
+      <Name>Ammo\missile</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>NormalMappingModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\missile.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Ammo\missile_0.xml</Key>
+        <Value>2015-08-18T00:21:12.3305132-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_c_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_i_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_s_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_normal_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_specular_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_glow_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Shaders\NormalMapping.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\skyfighter fbx.fbx</Source>
+      <Name>Models\skyfighter fbx</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\skyfighter fbx.xnb</Output>
+      <Time>2015-05-10T00:19:07-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\skyfighter fbx_0.xml</Key>
+        <Value>2015-08-18T00:21:13.253566-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\aircraft texture1_0.xnb</Request>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\aircraft texture2_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\SnowyMountain.FBX</Source>
+      <Name>Models\SnowyMountain</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\SnowyMountain.xnb</Output>
+      <Time>2015-05-14T19:42:11-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\SnowyMountain_0.xml</Key>
+        <Value>2015-08-18T00:21:15.4666926-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\SnowyMountain_one.fbx</Source>
+      <Name>Models\SnowyMountain_one</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\SnowyMountain_one.xnb</Output>
+      <Time>2015-05-14T21:24:30-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\SnowyMountain_one_0.xml</Key>
+        <Value>2015-08-18T00:21:16.8317707-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\skysphere_mesh.FBX</Source>
+      <Name>Models\skysphere_mesh</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\skysphere_mesh.xnb</Output>
+      <Time>2010-11-24T14:50:24-08:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\skysphere_mesh_0.xml</Key>
+        <Value>2015-08-18T00:21:17.2177927-07:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Name>Models\Ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\Ship.xnb</Output>
+      <Time>2011-09-05T13:14:02-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\Ship_0.xml</Key>
+        <Value>2015-08-18T00:21:17.3297991-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\ShipTexture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\EuroFighter.FBX</Source>
+      <Name>Models\EuroFighter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\EuroFighter.xnb</Output>
+      <Time>2015-07-22T20:50:38.0765615-07:00</Time>
+      <Dependency>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\EuroFighter_0.xml</Key>
+        <Value>2015-08-18T00:21:17.5148097-07:00</Value>
+      </Dependency>
+      <Request>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\dark_fighter_7_color_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\Ground_0.xml</Output>
+      <Time>2015-04-11T18:44:17-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Checker.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\Checker_0.xnb</Output>
+      <Time>2010-09-16T15:05:32-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\grass_ground.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\grass_ground_0.xml</Output>
+      <Time>2010-11-24T13:58:42-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\grass.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\grass_0.xnb</Output>
+      <Time>2010-11-24T13:59:20-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ammo.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\ammo_0.xml</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\blaster.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Ammo\blaster_0.xml</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\blaster_c.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\blaster_c_0.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>null_normal.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_normal_0.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>null_specular.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_specular_0.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>null_glow.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\null_glow_0.xnb</Output>
+      <Time>2010-12-08T00:27:44-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\spaceship.x</Source>
+      <Importer>XImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\spaceship_0.xml</Output>
+      <Time>2010-08-19T08:34:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\CrossHair.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\CrossHair_0.xml</Output>
+      <Time>2015-04-21T19:10:25-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\missile.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Ammo\missile_0.xml</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\Missile_c.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_c_0.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\Missile_i.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_i_0.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Ammo\Missile_s.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Ammo\Missile_s_0.xnb</Output>
+      <Time>2010-12-08T00:27:46-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skyfighter fbx.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\skyfighter fbx_0.xml</Output>
+      <Time>2015-05-10T00:19:07-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\aircraft texture1.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\aircraft texture1_0.xnb</Output>
+      <Time>2015-05-09T21:03:54-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\aircraft texture2.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\aircraft texture2_0.xnb</Output>
+      <Time>2015-05-09T21:08:37-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SnowyMountain.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\SnowyMountain_0.xml</Output>
+      <Time>2015-05-14T19:42:11-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\SnowyMountain_one.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\SnowyMountain_one_0.xml</Output>
+      <Time>2015-05-14T21:24:30-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\skysphere_mesh.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\skysphere_mesh_0.xml</Output>
+      <Time>2010-11-24T14:50:24-08:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Ship.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\Ship_0.xml</Output>
+      <Time>2011-09-05T13:14:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\ShipTexture.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\ShipTexture_0.xnb</Output>
+      <Time>2011-09-05T13:14:02-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\EuroFighter.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\Models\EuroFighter_0.xml</Output>
+      <Time>2015-07-22T20:50:38.0765615-07:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\dark_fighter_7_color.png</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\Models\dark_fighter_7_color_0.xnb</Output>
+      <Time>2015-07-18T23:33:56-07:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5CEE4B5B-CA85-4091-8F95-FE6A15530491}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStrikerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\JohnStriker\JohnStriker\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\TerrainModelProcessor\bin\Debug\TerrainModelProcessor.dll</Key>
+        <Value>2015-08-18T00:20:55.310544-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\Game\JohnStriker\NormalMappingModelProcessor\bin\x86\Debug\NormalMappingModelProcessor.dll</Key>
+        <Value>2015-08-18T00:20:55.2481439-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-07:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-04-25T21:49:30.1686922-07:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

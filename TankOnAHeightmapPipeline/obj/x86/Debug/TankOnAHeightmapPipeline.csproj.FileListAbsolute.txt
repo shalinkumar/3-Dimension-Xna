@@ -1,0 +1,9 @@
+E:\games from MSDN\TankOnAHeightmap\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.dll
+E:\games from MSDN\TankOnAHeightmap\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.pdb
+E:\games from MSDN\TankOnAHeightmap\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.dll
+E:\games from MSDN\TankOnAHeightmap\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\TankOnAHeightmapPipeline\bin\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.dll
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\TankOnAHeightmapPipeline\obj\x86\Debug\TanksOnAHeightmapPipeline.pdb
+C:\Users\shalin\Documents\Visual Studio 2013\Projects\Dropbox\JohnStriker\TankOnAHeightmapPipeline\obj\x86\Debug\TankOnAHeightmapPipeline.csprojResolveAssemblyReference.cache
